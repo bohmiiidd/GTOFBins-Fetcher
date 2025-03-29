@@ -71,7 +71,7 @@ def main():
                     if line.strip():
                         check_bin(line.strip())
         else:
-            print(f"\n{Fore.RED}❌ Usage: {Fore.WHITE}python gtfobins_explorer.py {Fore.GREEN}--bin <bin1,bin2> {Fore.WHITE}or {Fore.GREEN}--file <file>")
+            print(f"\n{Fore.RED}❌ Usage: {Fore.WHITE}python GTOFBins.py {Fore.GREEN}--bin <bin1,bin2> {Fore.WHITE}or {Fore.GREEN}--file <file>")
 
     except KeyboardInterrupt:
         print(f"\n{Fore.RED}🛑 Keyboard interrupt detected. Exiting...")
