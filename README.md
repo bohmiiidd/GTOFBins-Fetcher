@@ -10,7 +10,7 @@ A simple and fast Python tool to quickly check for known exploits related to bin
 
 ## Requirements
 
-- Python 3.x
+- `Python 3.x`
 - `requests`
 - `beautifulsoup4`
 - `colorama`
@@ -28,7 +28,7 @@ pip install -r requirements.txt
 To check suite of binaries, use the `--bin` option followed by the binary name (e.g., `find,base64,vim`):
 
 ```bash
-python gtfobin_checker.py --bin find
+python3 GTOFBins.py --bin find
 ```
 
 ### Check multiple binaries from a file
@@ -36,7 +36,7 @@ python gtfobin_checker.py --bin find
 To check multiple binaries listed in a file, use the `--file` option:
 
 ```bash
-python gtfobin_checker.py --file binaries.txt
+python3 GTOFBins.py --file binaries.txt
 ```
 
 Where `binaries.txt` is a text file containing a list of binaries (one per line).
