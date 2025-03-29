@@ -53,6 +53,3 @@ This tool is developed by **Ahmed Abd**.
 
 This project is open-source. Feel free to fork, modify, and contribute!
 
----
-
-This README is designed to be easy to understand, with clear instructions for installation, usage, and what the project is about. You can expand on any section if needed, but it should be a great starting point!
