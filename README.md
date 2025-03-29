@@ -6,7 +6,7 @@ A simple and fast Python tool to quickly check for known exploits related to bin
 - **Fast and Simple**: Quickly check binaries for known exploits.
 - **Single or Batch Checking**: Check one binary at a time or use a file to check multiple binaries.
 - **Colorful Terminal Output**: Enjoy terminal output with colored text and fun emoji animations.
-- **Developed by Ahmed Abd**: A tool created to speed up your workflow while you’re working on privilege escalation techniques :)
+A tool created to speed up your workflow while you’re working on privilege escalation techniques :)
 
 ## Requirements
 
