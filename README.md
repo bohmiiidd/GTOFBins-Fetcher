@@ -42,6 +42,7 @@ python3 GTOFBins.py --file binaries.txt
 Where `binaries.txt` is a text file containing a list of binaries (one per line).
 
 ## Example Output
+![fbin](https://github.com/user-attachments/assets/daee6a92-dadb-4686-9c01-ee33d2cda0b5)
 
 When you run the tool, it will display colored text and emojis as it checks the binary.
 
